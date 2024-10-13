@@ -1,0 +1,37 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+*.iws
+
+# Ignore build files
+/out/
+/target/
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.class
+*.jar
+*.war
+
+# Ignore config files
+*.properties
+*.xml
+*.yml
+
+# Ignore Maven & Gradle specific files
+/.mvn/
+/.gradle/
+/build/
+/settings.xml
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore node_modules if using NodeJS/React
+node_modules/
